@@ -2,8 +2,14 @@ data/raw/
 data/processed/
 runs/
 results/
+results_yolo/
 *.zip
+*.docx
 __pycache__/
+*.pyc
 .pytest_cache/
 *.egg-info/
 .venv/
+manuscript-layout-detector/
+powershell.cmd
+python.cmd
